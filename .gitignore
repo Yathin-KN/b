@@ -1,0 +1,14 @@
+# Ignore log files and directories
+logs/
+tmp/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+libtorch/
+pybind11/
+env/
